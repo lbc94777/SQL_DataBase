@@ -1,0 +1,4 @@
+.venv
+*.db
+CLAUDE.md
+ROADMAP.md
